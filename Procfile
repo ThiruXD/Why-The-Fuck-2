@@ -1,1 +1,1 @@
-worker: bash AnonX
+worker: bash start
