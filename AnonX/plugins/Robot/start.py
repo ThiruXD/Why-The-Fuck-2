@@ -158,9 +158,6 @@ async def start_comm(client, message: Message, _):
                         InlineKeyboardButton(
                             text="• ʏᴏᴜᴛᴜʙᴇ •", url=f"{link}"
                         ),
-                        InlineKeyboardButton(
-                            text="• sᴜᴩᴩᴏʀᴛ •", url="https://t.me/DevilsHeavenMF"
-                        ),
                     ],
                 ]
             )
